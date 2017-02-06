@@ -5,6 +5,6 @@ package Application;
  */
 public class Test {
     public static void main(String[] args) {
-        System.out.print("Salut et bienvenu sur mon projet");
+        System.out.print("Salut et bienvenu sur le projet");
     }
 }
